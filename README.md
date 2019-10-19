@@ -1,7 +1,7 @@
-# react-weather-app
+# React Weather App
 Simple react weather app
 
-# Api keys (free weather app)
+# Api keys (Open Weather map)
 
 * 70c95c746a79284dc2c82d1c18a31448
 * 0680048a36627c5805c471b9970cf10c
@@ -11,7 +11,7 @@ Simple react weather app
 
 __The api calls are limited, please share them amongst yourselves, 2 campers per key.__
 
-As you  use them mark update the read-me marking them as used.
+As you use them, update the read-me marking them as used.
 
 __If the api responds with status 401, it means the api key is still not activated, please allow a few moments to be activated.__
 
